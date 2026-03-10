@@ -123,6 +123,7 @@
 - [luna](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 - [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+- [oss-maintenance-log](https://github.com/dusan-maintains/oss-maintenance-log) - Automated public evidence log for OSS maintenance. Tracks PR SLA, npm health, and repo metrics across abandoned packages. Self-updates every 6h.
 
 ## Clients
 
